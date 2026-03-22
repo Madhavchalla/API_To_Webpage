@@ -25,7 +25,7 @@ A stunning React application that displays an interactive 3D product gallery fet
 
 - [Fake Store API](https://fakestoreapi.com/) for providing sample product data
 - [Framer Motion](https://www.framer.com/motion/) for animation capabilities
-- React community for the amazing ecosystem
 
-git 
+
+
 
