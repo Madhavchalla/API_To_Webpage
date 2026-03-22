@@ -2,7 +2,7 @@
 
 A stunning React application that displays an interactive 3D product gallery fetched from the Fake Store API. Features smooth animations, mouse-following tilt effects, and a sleek dark theme.
 
-![https://productcardsapi.netlify.app/]("https://productcardsapi.netlify.app/")
+![https://productcardsapi.netlify.app/](https://productcardsapi.netlify.app/)
 
 ## ✨ Features
 
